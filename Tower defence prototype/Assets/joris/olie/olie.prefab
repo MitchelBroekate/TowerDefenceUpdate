@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 4180494633908683745}
   - component: {fileID: 3681369858454474729}
   m_Layer: 0
-  m_Name: Plane (3)
+  m_Name: OilPatch 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -119,7 +119,7 @@ GameObject:
   - component: {fileID: 4446157280688562774}
   - component: {fileID: 7567832213358406068}
   m_Layer: 0
-  m_Name: Plane (4)
+  m_Name: OilPatch 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -261,7 +261,7 @@ GameObject:
   - component: {fileID: 1717341021853067233}
   - component: {fileID: 5227050711453948913}
   m_Layer: 0
-  m_Name: Plane (2)
+  m_Name: OilPatch 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -367,7 +367,7 @@ GameObject:
   - component: {fileID: 1941203540550114820}
   - component: {fileID: 608124087818029969}
   m_Layer: 0
-  m_Name: Plane
+  m_Name: OilPatch 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -473,7 +473,7 @@ GameObject:
   - component: {fileID: 4562714005540496740}
   - component: {fileID: 2037538898065945009}
   m_Layer: 0
-  m_Name: Plane (1)
+  m_Name: OilPatch 5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
