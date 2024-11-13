@@ -39,6 +39,8 @@ public class LaserBullet : MonoBehaviour
 
         if(_timer <= homingDuration)
         {
+            if(gameObject == null) return;
+
             Vector3 direction = target.position - rb.position;
             direction.Normalize();
 

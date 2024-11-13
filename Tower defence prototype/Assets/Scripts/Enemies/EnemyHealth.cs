@@ -36,7 +36,7 @@ public class EnemyHealth : MonoBehaviour
         currentHealth -= damage;
         
         UpdateHealthBar(currentHealth);
-        
+
         print("I took " + damage + " damage");
         if (currentHealth <= 0)
         { 
